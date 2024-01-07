@@ -12,7 +12,7 @@ O código é uma animação feita em CSS e HTML para um logotipo da Netflix. É 
 
 ## Versão web
 
-![Web](https://media.discordapp.net/attachments/1191521910442446949/1191522815443218503/image.png?ex=65a5bf18&is=65934a18&hm=855a03f59cc87ba9a8654f33aa50fbf979631bbc735ee97b795820ff0ea77107&=&format=webp&quality=lossless&width=1193&height=671)
+![Web](https://media.discordapp.net/attachments/1191521910442446949/1193548304110338128/netflix.gif?ex=65ad1d7a&is=659aa87a&hm=89a7dfc05f0a36285091f3c9db13d27a809ebd4ed16b031a68d35f24058d860a&=)
 
 # Tecnologias utilizadas
 
