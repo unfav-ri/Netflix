@@ -17,5 +17,5 @@ O código é uma animação feita em CSS e HTML para um logotipo da Netflix. Com
 
 # Autor
 
-R. Gonçalves
-https://www.linkedin.com/in/rgonsa/
+R. Gonçalves  
+[LinkedIn](https://www.linkedin.com/in/unic-ri/ "Visite meu perfil no LinkedIn")
