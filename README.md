@@ -9,7 +9,7 @@ O código é uma animação feita em CSS e HTML para um logotipo da Netflix. Com
 
 ## Prévia
 
-<img src= "./netflix.gif">
+<img src= "https://github.com/unfav-ri/assets/blob/master/NETFLIX/netflix.gif">
 
 # Tecnologias utilizadas
 
