@@ -1,24 +1,48 @@
 # Projeto: Netflix
 
-Uma releitura da abertura da Netflix
+Uma releitura da abertura da Netflix.
 
-# Sobre o projeto
+## Sobre o Projeto
 
-O código é uma animação feita em CSS e HTML para um logotipo da Netflix. Compatível com dispositivos mobile e desktop.
+O código consiste em uma animação feita em CSS e HTML para um logotipo da Netflix. É compatível com dispositivos móveis e desktop.
 
+### Prévia
 
-## Prévia
+<img src="https://github.com/unfav-ri/assets/blob/master/NETFLIX/netflix.gif">
 
-<img src= "https://github.com/unfav-ri/assets/blob/master/NETFLIX/netflix.gif">
+## Tecnologias Utilizadas
 
-# Tecnologias utilizadas
+- **HTML**
+- **CSS**
 
-- HTML / CSS
+## Como Executar o Projeto Localmente
 
-# Autor
+Para visualizar a prévia do projeto localmente, siga os passos abaixo:
 
-### R. Gonçalves
+1. Clone o repositório:
+    ```sh
+    git clone https://github.com/unfav-ri/netflix.git
+    ```
+2. Navegue até o diretório do projeto:
+    ```sh
+    cd menu-responsivo-css
+    ```
+3. Abra o arquivo `index.html` em qualquer navegador web moderno.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rgoncalves-sp/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/unfav_ri)
+## Como Contribuir
+
+Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
+
+1. Faça um fork deste repositório.
+2. Crie uma nova branch (`git checkout -b feature/sua-feature`).
+3. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature'`).
+4. Faça push para a branch (`git push origin feature/sua-feature`).
+5. Abra um Pull Request.
+
+## Autor
+
+**R. Gonçalves**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unic-ri/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/unic_ri)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/210427541956198400)
